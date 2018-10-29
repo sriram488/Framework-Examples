@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9535" started-at="2017-04-10T05:00:25Z" finished-at="2017-04-10T05:00:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9535" started-at="2017-04-10T05:00:25Z" finished-at="2017-04-10T05:00:35Z">
+      <class name="com.emma2.testcases.loginTest">
+        <test-method status="PASS" signature="initializeFramework()[pri:0, instance:com.emma2.testcases.loginTest@498d318c]" name="initializeFramework" is-config="true" duration-ms="31358" started-at="2017-04-10T10:29:49Z" finished-at="2017-04-10T10:30:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeFramework -->
+        <test-method status="PASS" signature="setUpDriver()[pri:0, instance:com.emma2.testcases.loginTest@498d318c]" name="setUpDriver" is-config="true" duration-ms="3995" started-at="2017-04-10T10:30:25Z" finished-at="2017-04-10T10:30:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpDriver -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.emma2.testcases.loginTest@498d318c]" name="beforeMethod" is-config="true" duration-ms="677" started-at="2017-04-10T10:30:29Z" finished-at="2017-04-10T10:30:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.emma2.testcases.loginTest.dologinTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="dologinTest()[pri:0, instance:com.emma2.testcases.loginTest@498d318c]" name="dologinTest" duration-ms="4624" started-at="2017-04-10T10:30:30Z" finished-at="2017-04-10T10:30:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dologinTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.emma2.testcases.loginTest@498d318c]" name="afterMethod" is-config="true" duration-ms="8" started-at="2017-04-10T10:30:35Z" finished-at="2017-04-10T10:30:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.emma2.testcases.loginTest@498d318c]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2017-04-10T10:30:35Z" finished-at="2017-04-10T10:30:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.emma2.testcases.loginTest.loginTRUE()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginTRUE()[pri:0, instance:com.emma2.testcases.loginTest@498d318c]" name="loginTRUE" duration-ms="8" started-at="2017-04-10T10:30:35Z" finished-at="2017-04-10T10:30:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTRUE -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.emma2.testcases.loginTest@498d318c]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-04-10T10:30:35Z" finished-at="2017-04-10T10:30:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="destroyFramework()[pri:0, instance:com.emma2.testcases.loginTest@498d318c]" name="destroyFramework" is-config="true" duration-ms="1093" started-at="2017-04-10T10:30:37Z" finished-at="2017-04-10T10:30:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- destroyFramework -->
+      </class> <!-- com.emma2.testcases.loginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

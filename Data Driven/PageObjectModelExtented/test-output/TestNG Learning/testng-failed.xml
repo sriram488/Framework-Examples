@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestNG Learning]">
+  <listeners>
+    <listener class-name="com.emma2.util.ExtentReportNg"/>
+  </listeners>
+  <test name="Login test(failed)">
+    <classes>
+      <class name="com.emma2.testcases.loginTest">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="initializeFramework"/>
+          <include name="beforeMethod"/>
+          <include name="setUpDriver"/>
+          <include name="dologinTest"/>
+          <include name="destroyFramework"/>
+        </methods>
+      </class> <!-- com.emma2.testcases.loginTest -->
+    </classes>
+  </test> <!-- Login test(failed) -->
+</suite> <!-- Failed suite [TestNG Learning] -->

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Automation Test" duration-ms="64" started-at="2017-10-22T22:36:57Z" finished-at="2017-10-22T22:36:57Z">
+    <groups>
+      <group name="Priority2">
+        <method signature="Annotations.FlightCancel()[pri:0, instance:packTwo.Annotations@15be6bb]" name="FlightCancel" class="packTwo.Annotations"/>
+      </group> <!-- Priority2 -->
+    </groups>
+    <test name="Smoke Testcases" duration-ms="64" started-at="2017-10-22T22:36:57Z" finished-at="2017-10-22T22:36:57Z">
+      <class name="packTwo.Annotations">
+        <test-method status="PASS" signature="FlightCancel()[pri:0, instance:packTwo.Annotations@15be6bb]" name="FlightCancel" duration-ms="21" started-at="2017-10-22T17:36:57Z" finished-at="2017-10-22T17:36:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FlightCancel -->
+      </class> <!-- packTwo.Annotations -->
+    </test> <!-- Smoke Testcases -->
+  </suite> <!-- Automation Test -->
+</testng-results>
